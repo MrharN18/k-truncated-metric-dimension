@@ -9,5 +9,5 @@ vertices.
 
 ## AI assistance
 
-ChatGPT and Claude were used during the development of the implementation to
-assist with writing, debugging, and refining the code.
+ChatGPT (GPT-5.6) and Claude Sonnet 5 were used during the development of the
+implementation to assist with writing, debugging, and refining the code.
